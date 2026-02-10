@@ -1,0 +1,83 @@
+# Takanashi Kiara – The Way
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Oh, It’s like I’m still fifteen
+Just stuck in a daydream of what it could be
+Ahh ~
+Oh, cause you make me crazy
+I found myself outside your door tonight
+Can you let me in?
+You, you’ve been dropping some hints
+But there ain’t no action
+Don’t worry babe, I know what you meant!
+Call your landline and you pick up
+It’s so silent but know it’s love
+Ring Ring, I’ma keep on callin cause
+I can’t stop it
+This could be a love story
+Boy don’t say no, you’re made just for me
+I promise, I’m not like this normally
+I gotta, gotta have you oh!
+You make me that way
+Promise that you’ll be my baby
+I’ll tie you up, you won’t ever ever ever
+leave me
+I know you’ll be
+Right with me
+Yeah
+Oh you’re so cute when you’re runnin
+How’d you cut the rope? You’re so funny
+Baby you don’t gotta pretend
+Scared? I know you like it!
+I notice all of your quirks
+How you laugh when it hurts
+I’ll save you baby, those girls can’t hurt you
+no more, so here’s my plan!
+Cut the service off of your phone
+Baby, I want you alone
+Ring Ring, they’ve been tryna call you but I
+cant stop it
+This could be a love story
+Boy don’t say no, you’re made just for me
+I promise, I’m not like this normally
+I gotta, gotta have you oh!
+You make me that way
+You’re my love
+I gotta get it, get it
+You’re my love
+I’m gonna make you get it
+Look in my eyes
+You make me crazy for you babe
+You’re my love
+I gotta get it, get it
+You’re my love
+I’m gonna make you get it
+Don’t you dare lie, you love the way
+You are
+(Oh you are)
+the only
+(The only yeah)
+Love for me
+So pinky promise this please
+Your eyes won’t wander and I’ll never wonder
+if it’s all just been in my head
+I know that you are mine
+This could be a love story
+Boy don’t say no, you’re made just for me
+I promise, I’m not like this normally
+I gotta, gotta have you oh!
+You make me that way
+You’re my love
+I gotta get it, get it
+You’re my love
+I’m gonna make you get it
+Look in my eyes
+You make me crazy for you babe
+You’re my love
+I gotta get it, get it
+You’re my love
+I’m gonna make you get it
+Don’t you dare lie, you love the way
+```
