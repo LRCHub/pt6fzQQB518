@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "The Way",
+  "base_artist": "Takanashi Kiara",
+  "createdAt": "2026-02-10T04:56:41.206226Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "He Loves Me All The Way",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/01_He_Loves_Me_All_The_Way_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Can Tell by the Way You Dance",
+      "artist": "Vern Gosdin",
+      "has_synced": false,
+      "path": "select/02_I_Can_Tell_by_the_Way_You_Dance_Vern_Gosdin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Love the Way You Love Me",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/03_I_Love_the_Way_You_Love_Me_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Love the Way You Love Me",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/04_I_Love_the_Way_You_Love_Me_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Love the Way You Love Me (Remastered LP Version)",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/05_I_Love_the_Way_You_Love_Me_(Remastered_LP_Version)_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just The Way (Acoustic)",
+      "artist": "Parmalee",
+      "has_synced": false,
+      "path": "select/06_Just_The_Way_(Acoustic)_Parmalee.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just the Way",
+      "artist": "Parmalee",
+      "has_synced": true,
+      "path": "select/07_Just_the_Way_Parmalee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One's On The Way - Single Version",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/08_One's_On_The_Way_-_Single_Version_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One's On The Way (Single Version)",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/09_One's_On_The_Way_(Single_Version)_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That's the Way",
+      "artist": "Jo Dee Messina",
+      "has_synced": true,
+      "path": "select/10_That's_the_Way_Jo_Dee_Messina.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That's The Way Love Goes",
+      "artist": "Johnny Rodriguez",
+      "has_synced": false,
+      "path": "select/11_That's_The_Way_Love_Goes_Johnny_Rodriguez.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "That's the Way Love Goes",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/12_That's_the_Way_Love_Goes_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "That's The Way Love Goes (Album Version)",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/13_That's_The_Way_Love_Goes_(Album_Version)_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "That's the Way Love Goes (Album Version)",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/14_That's_the_Way_Love_Goes_(Album_Version)_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Things We Lost Along the Way",
+      "artist": "American Aquarium",
+      "has_synced": false,
+      "path": "select/15_The_Things_We_Lost_Along_the_Way_American_Aquarium.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Way I Talk",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/16_The_Way_I_Talk_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Way",
+      "artist": "Takanashi Kiara",
+      "has_synced": false,
+      "path": "select/pl_01_The_Way_Takanashi_Kiara.txt"
+    }
+  ]
+}
